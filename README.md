@@ -7,8 +7,8 @@ My team and I believe this would create significance in the healthcare industry 
   • Google Cloud Platform
 
 <h3> Requirements </h3>
-  • Python
-  • Jupyter Notebook
+  <p>• Python</p>
+  <p>• Jupyter Notebook</p>
 
 <h3> Packages </h3>
   <p> • pandas</p>
